@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=didikc&color=5b92e5)
+![](https://komarev.com/ghpvc/?username=didikc&label=Views&color=5b92e5)
 
 ![didikc's GitHub stats](https://github-readme-stats.vercel.app/api?username=didikc&theme=default&show_icons=true)
 
