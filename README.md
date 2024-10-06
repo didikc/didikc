@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Github logo](https://img.shields.io/badge/github-blue?logo=github)
-![](https://komarev.com/ghpvc/?username=didikc&label=Views&color=blue)
+![](https://komarev.com/ghpvc/?username=didikc&label=views&color=blue)
 
 ![didikc's GitHub stats](https://github-readme-stats.vercel.app/api?username=didikc&theme=default&show_icons=true)
 
