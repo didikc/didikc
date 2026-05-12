@@ -6,4 +6,3 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/didikc?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![didikc's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=didikc&layout=compact&theme=default)
