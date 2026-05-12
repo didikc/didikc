@@ -4,6 +4,6 @@
 ![Static Badge](https://img.shields.io/badge/copy_%7C_paste_%7C_edit_%7C_run-blue)
 ![](https://komarev.com/ghpvc/?username=didikc&label=views&color=blue)
 
-![didikc's GitHub stats](https://github-readme-stats.vercel.app/api?username=didikc&theme=default&show_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/didikc?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![didikc's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=didikc&layout=compact&theme=default)
